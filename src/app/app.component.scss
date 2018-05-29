@@ -1,0 +1,10 @@
+@font-face  {
+    font-family: leixo;
+    src: url('../assets/LEIXO-Regular.ttf') format('truetype'),
+         url('../assets/LEIXO-Regular.otf') format('opentype');
+}
+
+
+h1.main-title {
+    font-family: leixo;
+}
